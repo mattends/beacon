@@ -1,0 +1,11 @@
+#! /bin/bash
+name="Kenneth"
+company="Transkam International"
+position="Manager"
+nickname="ghostdog"
+maritalstatus="Mrs Kenneth"
+echo "hello $name"
+echo "welcome to $company"
+echo "As a $position we would love to walk you through our 3 week orientation"
+echo "$nickname  our team here cannot wait to meet you"
+echo "i hope $maritalstatus and the family are doing well"
